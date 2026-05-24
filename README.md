@@ -16,4 +16,4 @@ Legal documents for Ysg8App applications. Published via GitHub Pages.
 
 ## Inquiries
 
-simplehabits@gmail.com
+[TBD]
