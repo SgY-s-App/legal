@@ -13,4 +13,4 @@ This page hosts legal documents related to Ysg8App's applications.
 
 ---
 
-For inquiries: [TBD]
+For inquiries: ysg00008@gmail.com

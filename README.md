@@ -32,4 +32,4 @@ Each application has its own subdirectory so policies can be added or modified i
 
 ## Inquiries
 
-[TBD]
+ysg00008@gmail.com

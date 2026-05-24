@@ -127,7 +127,7 @@ We may update this Policy from time to time. If we make material changes, we wil
 For questions, opinions, or requests regarding access, correction, or deletion of your personal information, please contact us at:
 
 - **Provider**: Ysg8App
-- **Email**: [TBD - to be updated once the address is finalized]
+- **Email**: ysg00008@gmail.com
 
 ---
 
