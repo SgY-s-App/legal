@@ -7,10 +7,9 @@ title: Ysg8App Legal
 
 This page hosts legal documents related to Ysg8App's applications.
 
-## Simple Habits
+## Applications
 
-- [Privacy Policy (日本語)](./privacy-policy-ja.html)
-- [Privacy Policy (English)](./privacy-policy-en.html)
+- [Simple Habits](./simplehabits/)
 
 ---
 
