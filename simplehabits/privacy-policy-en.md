@@ -136,5 +136,4 @@ For questions, opinions, or requests regarding access, correction, or deletion o
 
 | Date | Changes |
 |---|---|
-| 2026-05-23 | Initial publication |
-| 2026-06-08 | Unified provider name to SHIGEYUKI YUNOKI; added the error monitoring service Sentry as a service provider |
+| 2026-06-08 | Initial publication |
