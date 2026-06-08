@@ -5,9 +5,9 @@ title: Privacy Policy - Simple Habits
 
 # Privacy Policy
 
-**Last Updated: May 23, 2026**
+**Last Updated: June 8, 2026**
 
-Ysg8App ("we", "us", or "our") provides this Privacy Policy ("Policy") to explain how we collect, use, and protect personal information in connection with the mobile application "Simple Habits" (the "App"). By using the App, you agree to the practices described in this Policy.
+SHIGEYUKI YUNOKI ("we", "us", or "our") provides this Privacy Policy ("Policy") to explain how we collect, use, and protect personal information in connection with the mobile application "Simple Habits" (the "App"). By using the App, you agree to the practices described in this Policy.
 
 ---
 
@@ -33,7 +33,7 @@ We collect the following types of information to provide our services.
 ### 1.4 Automatically Collected Information
 
 - **Device information**: OS version, App version (for troubleshooting)
-- **Crash logs**: Technical information collected when the App terminates unexpectedly (for troubleshooting)
+- **Crash and error logs**: Technical information collected when the App terminates unexpectedly or encounters an error (for troubleshooting; sent to the error monitoring service Sentry)
 
 ---
 
@@ -62,6 +62,7 @@ The App uses the following service providers to deliver its services. We share o
 | **Apple Inc.** | United States | Information required for purchase processing | Subscription billing via App Store |
 | **Google LLC** | United States | Information required for purchase processing | Subscription billing via Google Play |
 | **Expo (650 Industries, Inc.)** | United States | Device information, App version | Over-the-air application updates |
+| **Functional Software, Inc. (Sentry)** | United States | Crash and error logs, device information, user identifier | Error detection and analysis |
 
 Data is transferred to and processed in the countries where these providers operate, including outside your country of residence. By using the App, you consent to such international transfers.
 
@@ -126,7 +127,7 @@ We may update this Policy from time to time. If we make material changes, we wil
 
 For questions, opinions, or requests regarding access, correction, or deletion of your personal information, please contact us at:
 
-- **Provider**: Ysg8App
+- **Provider**: SHIGEYUKI YUNOKI
 - **Email**: ysg00008@gmail.com
 
 ---
@@ -136,3 +137,4 @@ For questions, opinions, or requests regarding access, correction, or deletion o
 | Date | Changes |
 |---|---|
 | 2026-05-23 | Initial publication |
+| 2026-06-08 | Unified provider name to SHIGEYUKI YUNOKI; added the error monitoring service Sentry as a service provider |
