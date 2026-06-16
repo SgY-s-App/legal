@@ -1,8 +1,3 @@
----
-layout: default
-title: Terms of Service - Simple Habits
----
-
 # Simple Habits Terms of Service
 
 **Last Updated: June 8, 2026**
