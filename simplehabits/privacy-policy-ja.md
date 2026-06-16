@@ -1,8 +1,3 @@
----
-layout: default
-title: プライバシーポリシー - Simple Habits
----
-
 # プライバシーポリシー
 
 **最終更新日: 2026 年 6 月 8 日**
