@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy - Simple Habits
----
-
 # Privacy Policy
 
 **Last Updated: June 8, 2026**
