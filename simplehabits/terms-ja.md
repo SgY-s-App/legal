@@ -1,8 +1,3 @@
----
-layout: default
-title: 利用規約 - Simple Habits
----
-
 # Simple Habits 利用規約
 
 **最終更新日: 2026 年 6 月 8 日**
