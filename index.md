@@ -1,8 +1,3 @@
----
-layout: default
-title: Simple Habits Legal
----
-
 # Simple Habits — Legal Documents
 
 This page hosts the legal documents for the app "Simple Habits".
