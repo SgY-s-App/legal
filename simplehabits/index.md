@@ -1,8 +1,3 @@
----
-layout: default
-title: Simple Habits - Legal
----
-
 # Simple Habits — Legal Documents
 
 - [Privacy Policy (日本語)](./privacy-policy-ja.html)
